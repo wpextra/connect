@@ -30,7 +30,7 @@
 	],
 	"autoload":          {
         "psr-4":    {
-            "Bridge\\Connect": "src/"
+            "Bridge\\Connect\\": "src/"
         }
     },
     "autoload-dev":      {
