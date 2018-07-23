@@ -11,7 +11,7 @@ final class Loader {
 	];
 
 	protected function constants() {
-		define( 'BRIDGE_CLIENT_VERSION', '1.0.0.0' );
+		define( 'BRIDGE_CONNECT_VERSION', '1.0.0.0' );
 	}
 
 	public function init() {
